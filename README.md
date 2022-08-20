@@ -8,5 +8,5 @@ Preview:
 ![](./Develop/public/assets/css/screenshot.jpg)
 
 The application is hosted here:
-![https://whispering-garden-06498.herokuapp.com/](https://whispering-garden-06498.herokuapp.com/)
+[https://whispering-garden-06498.herokuapp.com/](https://whispering-garden-06498.herokuapp.com/)
 
