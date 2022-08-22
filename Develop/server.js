@@ -73,9 +73,9 @@ app.get('/', (req, res) => {
     }
   });
 
-app.delete(`/api/notes/:id`, (req, res) => {
+    app.delete(`/api/notes/:id`, (req, res) => {
 
-})
+    })
 
   app.listen(PORT, () => {
     console.log(`NoteTaker App listening at http://localhost:${PORT}`);
