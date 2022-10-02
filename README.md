@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# Note Taker
 
 Deployed Heroku Link:
 [https://rocky-balboa-note-app.herokuapp.com/](https://rocky-balboa-note-app.herokuapp.com/)
