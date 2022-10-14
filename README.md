@@ -1,10 +1,9 @@
 # Note Taker App
 
-Deployed Heroku Link:
-[https://rocky-balboa-note-app.herokuapp.com/](https://rocky-balboa-note-app.herokuapp.com/)
+## Description
+The Note Take App is a web application that allows users to create, save, or delete and manage their notes. The application was created with NodeJS, API calls, and a server-side JSON database.
 
-This application's functionality resembles that of the default Notes App by Apple Inc. The user can add, save, delete, and manage their notes through this app. It uses an Express server to host the data of the notes' contents.
+Link: [https://rocky-balboa-note-app.herokuapp.com/](https://rocky-balboa-note-app.herokuapp.com/)
 
-Preview:
+## Screenshot
 ![](./public/assets/css/screenshot.jpg)
-
