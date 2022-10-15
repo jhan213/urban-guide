@@ -6,4 +6,4 @@ The Note Take App is a web application that allows users to create, save, or del
 Link: [https://rocky-balboa-note-app.herokuapp.com/](https://rocky-balboa-note-app.herokuapp.com/)
 
 ## Screenshot
-![](./public/assets/css/screenshot.jpg)
+![](./public/assets/css/notetaker_app_preview.png)
