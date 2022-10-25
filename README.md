@@ -23,10 +23,10 @@ UCLA Extension Full-Stack Coding Bootcamp
 
 ## Features & Components
 
-* Add Note: Begin typing in empty note pane
-* Delete Note: Delete existing notes by clicking on trash can icon
-* Save Note: Save by clicking on save icon
-* Manage Note: Manage existing notes through left column
+* To add a note: Begin typing in an empty note pane
+* To delete a note: Click on the trash can icon
+* To save a note: Save by clicking on save icon
+* To manage notes: Click on existing notes in left hand column
 
 The notes database is hosted locally on Heroku in a JSON file.
 ExpressJS builds the website. It creates routes to the HTML files, creates API routes (GET, POST, DELETE) and defines each route's functions.
