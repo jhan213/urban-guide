@@ -1,21 +1,5 @@
 # Note Taker App
 
-#### Website Link
-[https://rocky-balboa-note-app.herokuapp.com/](https://rocky-balboa-note-app.herokuapp.com/)
-
-## Description
-The Note Taker App is a website that allows its users to create and manage notes.
-
-#### Packages
-* `express`
-* `fs`
-* `path`
-
-## Screenshot
-![](./public/assets/css/notetaker_app_preview.png)
-
-# Note Taker App
-
 ## Description
 
 The Note Taker App is a website that allows its users to create and manage notes.
