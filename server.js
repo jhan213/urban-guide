@@ -3,7 +3,6 @@ const path = require('path');
 const fs = require('fs');
 const util = require('util');
 const uuid = require('./helpers/uuid');
-const notesData = require('./db/db.json');
 const PORT = process.env.PORT || 3001;
 const app = express();
 app.use(express.urlencoded({ extended: true }));
