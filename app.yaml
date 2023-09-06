@@ -1,1 +1,2 @@
-runtime: nodejs18
+runtime: nodejs
+vm: true
