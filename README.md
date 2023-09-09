@@ -3,7 +3,11 @@
 # Note Taker
 
 ## Description
+A website where users can take and save notes. 
 ![](./public/assets/css/notetaker_app_preview.png)
+
+## Project Tools
+HTML, CSS, JavaScript, Express, Rest APIs
 
 ## Credits
 Ucla Extension Bootcamp
